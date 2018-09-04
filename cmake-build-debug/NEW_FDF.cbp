@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="NEW_FDF"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NEW_FDF">
+				<Option output="/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/NEW_FDF" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/minilibx"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/gnl/libft"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/gnl"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/inc"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/libft/includes"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 NEW_FDF"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="NEW_FDF/fast">
+				<Option output="/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/NEW_FDF" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/minilibx"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/gnl/libft"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/gnl"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/inc"/>
+					<Add directory="/Users/istalevs/CLionProjects/NEW_FDF/libft/includes"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 NEW_FDF/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/istalevs/CLionProjects/NEW_FDF/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/fdf.h">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_atoi_base.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_brazenhaim.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_color.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_del_mlx.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_draw.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_event.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_foo.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_list_foo.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_make_mlx.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_matrix_transform.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_point.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/ft_read_file.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/gnl/get_next_line.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/gnl/get_next_line.h">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/main.c">
+			<Option target="NEW_FDF"/>
+		</Unit>
+		<Unit filename="/Users/istalevs/CLionProjects/NEW_FDF/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
